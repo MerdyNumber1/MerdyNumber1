@@ -23,7 +23,6 @@ Junior Full-Stack WEB-разработчик, г. Брянск, Россия
  - Библиотеки: JQuery, Animate.css
  - API's: AmoCRM, WebFonts, Google Maps Api, Yandex Maps Api
  - Системы контроля версий: Git (Github, Bitbucket, Heroku)
- - Прочее: SVG-файлы, JQuery UI, Slick.js, Swiper.js, Owl-carousel, развертывание и настройка Apache2, Nginx-серверов с помощью SSH, работа с Unix/Linux через Bash
+ - Прочее: SVG-файлы, JQuery UI, Slick.js, Swiper.js, Owl-carousel, настройка Apache2, Nginx-серверов, базовая работа с Unix/Linux
  - Знание ООП, БЭМ (верстка), MVC-паттерна, понимание REST API, построение RESTful приложения 
- - Программы и окружения, где я работаю/работал: LAMP, XAMPP, OpenServer, MongoCompass, Visual Studio Code, Adobe Photoshop, Adobe Premier, Figma, Avocode, WebStorm, Bash,            PowerShell, CMD, FileZilla, PuTTY, WinSCP, Oracle VM VirtualBox, etc.
  - ОС, где я работаю/работал: Windows 7/10, Ubuntu, Lubuntu, Arch Linux, MX Linux, Linux Mint
