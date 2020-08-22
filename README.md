@@ -8,13 +8,13 @@ Junior Full-Stack WEB-разработчик, г. Брянск, Россия
  - JavaScript - ES8 стандарт
  - PHP 7.4
  - Node.js (+Express, Socket.IO )
- - React.js (+Gatsby, Material UI, JSS, styled-components, Redux, Thunk, Saga, Next.js)
+ - React.js (+Gatsby, Material UI, JSS, Redux, Thunk, Saga, Next.js)
  - Сборка проекта на Gulp, Grunt, WebPack4
  - Препроцессоры (Pug, SASS, SCSS, LESS, Stylus)
  - Постпроцессоры (PostCSS)
  - Веб-парсеры на PHP (PHPQuery, XPath)
  - Selenium (PHPWebdriver)
- - SQL-базы данных (MySQL, MariaDB), работа с ними через PHP (PHP-PDO, RedBean ORM), Node.JS
+ - SQL-базы данных (MySQL, MariaDB), работа через PHP (PHP-PDO, RedBean ORM), Node.JS
  - NoSQL-базы данных (MongoDB - работа через Node.js + Mongoose)
  - Шаблонизаторы (Twig, Blade, EJS, HB, Pug)
  - WordPress CMS (Unyson Framework, ACF Pro), база Bitrix CMS
