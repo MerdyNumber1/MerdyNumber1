@@ -1,8 +1,8 @@
-# Алексей Засульский
+# Alexey Zasulsky
 
 Junior Full-Stack WEB-разработчик, г. Брянск, Россия
 
-# Навыки:
+# My skills:
  - HTML/CSS/JS -кроссбраузерная, адаптивная верстка (FlexBox, Grid, Table-верстка для писем, Babel для поддержки IE) + Bootstrap4
  - CSS3, JS, SVG-анимации, HTML Canvas
  - JavaScript - ES8 стандарт
