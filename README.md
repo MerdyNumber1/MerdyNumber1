@@ -5,7 +5,6 @@ Junior Full-Stack WEB-разработчик, г. Брянск, Россия
 # My skills:
  - HTML/CSS/JS -кроссбраузерная, адаптивная верстка (FlexBox, Grid, Table-верстка для писем, Bootstrap4)
  - CSS3/JS/SVG-анимации, HTML Canvas
- 
  - JavaScript - ES8 стандарт, TypeScript
  - React.js (+Gatsby, Material UI, JSS, Redux, Thunk, Saga, Next.js)
  - Angular 
@@ -14,7 +13,6 @@ Junior Full-Stack WEB-разработчик, г. Брянск, Россия
  - Постпроцессоры (PostCSS)
  - Библиотеки: JQuery, Animate.css
  - Node.js (+Express, Socket.IO)
- 
  - PHP 7.4
  - Laravel, Yii2
  - Веб-парсеры на PHP (PHPQuery, XPath)
@@ -24,7 +22,6 @@ Junior Full-Stack WEB-разработчик, г. Брянск, Россия
  - Шаблонизаторы (Twig, Blade, EJS, HB, Pug)
  - WordPress CMS (Unyson Framework, ACF Pro), база Bitrix CMS
  - Десктоп-приложения - Electron.js
- 
  - Пакетные менеджеры: NPM, Yarn, Composer, Bower 
  - API's: AmoCRM, WebFonts, Google Maps Api, Yandex Maps Api
  - Системы контроля версий: Git (Github, Bitbucket, Heroku)
