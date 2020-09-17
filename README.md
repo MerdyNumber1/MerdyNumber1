@@ -20,6 +20,7 @@ Junior Full-Stack WEB-разработчик, г. Брянск, Россия
  - SQL-базы данных (MySQL, MariaDB), работа через PHP-PDO, RedBean ORM, Eloquent ORM, Node.JS
  - NoSQL-базы данных (MongoDB - работа через Node.js + Mongoose)
  - Шаблонизаторы (Twig, Blade, EJS, HB, Pug)
+ - Docker
  - WordPress CMS (Unyson Framework, ACF Pro), база Bitrix CMS
  - Десктоп-приложения - Electron.js
  - Пакетные менеджеры: NPM, Yarn, Composer, Bower 
