@@ -8,6 +8,7 @@ Junior Full-Stack WEB-разработчик
  - CSS3/JS/SVG-анимации, HTML Canvas
  - JavaScript - ES8 стандарт, TypeScript
  - React.js (+Gatsby, Material UI, JSS, Redux, Thunk, Saga, Next.js)
+ - Vue.js (Vuex)
  - Angular 
  - Gulp, Grunt, WebPack4
  - Препроцессоры (Pug, SASS, SCSS, LESS, Stylus), Постпроцессоры (PostCSS)
