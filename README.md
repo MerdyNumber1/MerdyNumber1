@@ -14,6 +14,7 @@ Junior Full-Stack WEB-разработчик
  - Препроцессоры (Pug, SASS, SCSS, LESS, Stylus), Постпроцессоры (PostCSS)
  - Библиотеки: JQuery, Animate.css
  - Electron.js - пк-приложения
+ - Python (Flask, django)
  - Node.js (+Express, Socket.IO)
  - PHP 7.4
  - Laravel, Yii2
