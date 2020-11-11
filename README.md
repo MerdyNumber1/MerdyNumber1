@@ -17,8 +17,7 @@ Junior Full-Stack Developer
 ## Backend:
  - Python (Flask, django, FastAPI)
  - Node.js (Express, Socket.IO, GraphQL) + TypeScript
- - PHP 7.4
- - Laravel
+ - PHP 7.4 (Laravel)
  - SQL-db: MySQL, MariaDB, PostgreSQL
  - NoSQL-db: MongoDB, Redis
  - Docker, docker-compose
