@@ -3,8 +3,8 @@
 Junior Full-Stack Developer
 
 # My skills:
- - Knowledge of ООП, БЭМ, MVC, REST API, building RESTful
- - HTML/CSS/JS responsible coding (FlexBox, Table-верстка, Bootstrap)
+ - Knowledge of OOP, BEM, MVC, REST API, building RESTful
+ - HTML/CSS/JS responsible coding (FlexBox, Table-layout, Bootstrap)
  - JavaScript - ES8, TypeScript, Canvas, Electron.js
  - React.js (Gatsby, Material UI, JSS, Redux, Thunk, Saga, Next.js)
  - Vue.js (Vuex, Vuetify)
