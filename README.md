@@ -13,7 +13,7 @@ Junior Full-Stack Developer
  - Vue.js (Vuex, Vuetify)
  - Angular 
  - Gulp, Grunt, Webpack
- - Pug, SASS, SCSS, LESS, Stylus, PostCSS
+ - Pug, SASS/SCSS, LESS, Stylus, PostCSS
 ## Backend:
  - Python (Flask, django, FastAPI)
  - Node.js (Express, Socket.IO, GraphQL) + TypeScript
