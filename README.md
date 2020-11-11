@@ -3,6 +3,7 @@
 Junior Full-Stack Developer
 
 # My skills:
+## Frontend:
  - Knowledge of OOP, BEM, MVC, REST API, building RESTful
  - HTML/CSS/JS responsible coding (FlexBox, Table-layout, Bootstrap)
  - JavaScript - ES8, TypeScript, Canvas, Electron.js
@@ -20,3 +21,4 @@ Junior Full-Stack Developer
  - Docker, docker-compose
  - Version Control Systems: Git
  - Other: Linux/UNIX, bash
+## Backend:
