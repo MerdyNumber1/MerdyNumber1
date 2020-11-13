@@ -8,7 +8,7 @@ Junior Full-Stack Developer
  - Docker, docker-compose
  - Other: Linux/UNIX, bash
 ## Frontend:
- - HTML/CSS/JS responsible coding (FlexBox, Table-layout, Bootstrap)
+ - HTML/CSS/JS responsible coding
  - JavaScript - ES8, TypeScript, Canvas, Electron.js
  - React.js (Gatsby, Material UI, JSS, Redux, Thunk, Saga, Next.js)
  - Vue.js (Vuex, Vuetify)
