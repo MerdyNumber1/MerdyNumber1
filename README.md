@@ -9,12 +9,10 @@ Junior Full-Stack Developer
  - Other: Linux/UNIX, bash
 ## Frontend:
  - HTML/CSS/JS responsible coding
- - JavaScript - ES8, TypeScript, Canvas, Electron.js
- - React.js (Gatsby, Material UI, JSS, Redux, Thunk, Saga, Next.js)
- - Vue.js (Vuex, Vuetify)
- - Angular 
+ - JavaScript, TypeScript
+ - React.js, Vue.js, Angular 
  - Gulp, Grunt, Webpack
- - Pug, SASS/SCSS, LESS, Stylus, PostCSS
+ - Pug, SASS/SCSS, LESS, PostCSS
 ## Backend:
  - Python (Flask, django, FastAPI)
  - Node.js (Express, Socket.IO, GraphQL) + TypeScript
