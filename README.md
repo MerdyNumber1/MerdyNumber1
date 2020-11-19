@@ -17,5 +17,5 @@ Junior Full-Stack Developer
  - Python (Flask, django, FastAPI)
  - Node.js (Express, Socket.IO, GraphQL) + TypeScript
  - PHP 7.4 (Laravel)
- - SQL-db: MySQL, MariaDB, PostgreSQL
+ - SQL-db: SQLite, MySQL, PostgreSQL
  - NoSQL-db: MongoDB, Redis
