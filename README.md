@@ -4,7 +4,7 @@ Junior Full-Stack Developer
 
 # My skills:
  - Knowledge of OOP, BEM, MVC, REST API, building RESTful, DRY
- - Version Control Systems: Git
+ - VCS: Git
  - Docker, docker-compose
  - Other: Linux/UNIX, bash
 ## Frontend:
@@ -14,7 +14,7 @@ Junior Full-Stack Developer
  - Gulp, Grunt, Webpack
  - Pug, SASS/SCSS, LESS, PostCSS
 ## Backend:
- - Python (Flask, Django, FastAPI)
+ - Python (Flask, Django, FastAPI, AioHTTP)
  - Node.js (Express, Socket.IO, GraphQL), TypeScript
  - PHP 7.4 (Laravel)
  - SQL-db: SQLite, MySQL, PostgreSQL
