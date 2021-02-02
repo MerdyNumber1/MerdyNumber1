@@ -19,3 +19,5 @@ Junior Full-Stack Developer
  - PHP 7.4 (Laravel)
  - SQL-db: SQLite, MySQL, PostgreSQL
  - NoSQL-db: MongoDB, Redis, memcached
+## Mobile-dev:
+ - React Native
