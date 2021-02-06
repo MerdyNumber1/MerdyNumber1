@@ -1,6 +1,6 @@
 # Alexey Zasulsky
 
-Junior Full-Stack Developer
+Full-Stack Developer
 
 # My skills:
  - Knowledge of OOP, BEM, MVC, REST API, building RESTful, DRY
