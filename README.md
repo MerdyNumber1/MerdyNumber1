@@ -27,4 +27,4 @@ Hello! My name is Alexey, I'm 16 years old. I have been doing programming for ab
 
 # My contacts:
  - Telegram: @AlexZasulsky
- - Linkedin: https://www.linkedin.com/in/alexey-zasulsky-1b755b201/
+ - [Linkedin](https://www.linkedin.com/in/alexey-zasulsky-1b755b201/)
