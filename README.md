@@ -3,7 +3,7 @@
 ![MerdyNumber1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MerdyNumber1&count_private=true&hide=contribs&show_icons=true&theme=default&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MerdyNumber1&count_private=false&hide=tsql&langs_count=7&theme=default&layout=compact)
 
-Hello! My name is Alexey, I'm 16 years old. I have been doing programming for about 2 years, trying out different technologies. Now my favorite programming languages in which I develop applications are JavaScript and Python
+Hello! My name is Alexey, I have been doing programming for about 2 years, trying out different technologies. Now my favorite programming languages in which I develop applications are JavaScript and Python
 
 # My skills:
  - Knowledge of OOP, BEM, MVC, REST API, building RESTful, DRY
