@@ -1,6 +1,6 @@
 # Alexey Zasulsky ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MerdyNumber1)
 
-Hello! My name is Alexey, I have been doing programming for about 2 years, trying out different technologies. Now my favorite programming languages in which I develop applications are JavaScript and Python
+Hello! My name is Alexey, I have been programming for about 2 years, trying out different technologies. Now my favorite programming languages are JavaScript and Python
 
 # My skills:
  - Knowledge of OOP, BEM, MVC, REST API, building RESTful, GraphQL, DRY, microservice architecture, gRPC
