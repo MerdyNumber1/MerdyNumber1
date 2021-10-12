@@ -1,30 +1,27 @@
 # Alexey Zasulsky ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MerdyNumber1)
 
-Hello! My name is Alexey, I have been programming for about 2 years, trying out different technologies. Now my favorite programming languages are JavaScript and Python
+Hi! I'm Alex, I've been programming for 3 years, trying out different cool technologies. Now my favorite languages are JavaScript and Python
 
 # My skills:
- - Knowledge of OOP, BEM, MVC, REST API, building RESTful, GraphQL, DRY, microservice architecture, gRPC
- - VCS: Git
- - Docker, docker-compose, k8s
- - Other: Linux/UNIX, bash
-## Frontend:
- - HTML/CSS/JS responsible coding
- - JavaScript, TypeScript
- - React.js, Vue.js, Angular 
- - Pug, SASS/SCSS, LESS, PostCSS
-## Backend:
- - Python (Flask, Django, FastAPI, asyncio)
- - Node.js (Express, Socket.IO, Apollo Server), TypeScript
- - Golang
- - SQL-db: SQLite, MySQL, PostgreSQL
- - NoSQL-db: MongoDB, Redis, memcached
- - RabbitMQ
-## Mobile-dev:
+## JavaScript:
+ - TypeScript
+ - React, Vue.js
+ - Next.js
+ - Electron.js
  - React Native
+ - Express.js, Socket.io, Nest.js
+## Python:
+ - asyncio
+ - Flask, Django, FastAPI
+## Other:
+ - DMBS: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
+ - RabbitMQ
+ - Docker, K8s
 
 # My contacts:
  - Telegram: @AlexZasulsky
  - [Linkedin](https://www.linkedin.com/in/alexey-zasulsky-1b755b201/)
+ - [Email](/mailto:sampekmoy@gmail.com)
 
 
 ![MerdyNumber1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MerdyNumber1&count_private=true&hide=contribs&show_icons=true&theme=default&layout=compact)
