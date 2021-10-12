@@ -21,7 +21,7 @@ Hi! I'm Alex, I've been programming for 3 years, trying out different cool techn
 # My contacts:
  - Telegram: @AlexZasulsky
  - [Linkedin](https://www.linkedin.com/in/alexey-zasulsky-1b755b201/)
- - [Email](/mailto:sampekmoy@gmail.com)
+ - <sampekmoy@gmail.com>
 
 
 ![MerdyNumber1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=MerdyNumber1&count_private=true&hide=contribs&show_icons=true&theme=default&layout=compact)
