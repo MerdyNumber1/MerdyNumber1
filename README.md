@@ -1,4 +1,4 @@
-# Alexey Zasulsky ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MerdyNumber1)
+# Alexey Zasulsky
 
 Hi! I'm Alex, I've been programming for 3 years, trying out different cool technologies. Now my favorite languages are JavaScript and Python
 
