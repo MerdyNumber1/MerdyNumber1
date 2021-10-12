@@ -14,7 +14,7 @@ Hi! I'm Alex, I've been programming for 3 years, trying out different cool techn
  - asyncio
  - Flask, Django, FastAPI
 ## Other:
- - DMBS: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
+ - DBMS: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, Redis)
  - RabbitMQ
  - Docker, K8s
 
