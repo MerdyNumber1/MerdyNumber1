@@ -1,6 +1,6 @@
 # Aleksei Zasulskii
 
-Hi! I'm Alex, I've been programming for 4 years, trying out different cool technologies. Now my favorite languages are JavaScript / TypeScript, Node.js too!  
+Hi! I'm Alex, I've been programming for 5 years, trying out different cool technologies. Now my favorite languages are JavaScript / TypeScript!  
 
 # My contacts:
  - Telegram: @AlexZasulsky
